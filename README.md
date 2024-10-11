@@ -10,6 +10,8 @@
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![SQLonline](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 
+## Sobre Mim:
+
 💻 Estou entrando agora na área de Programação e tenho muito Interesse em me especializar na área! Atualmente Curso Ciência da Computação na UFABC e faço Cursos de Programação via Alura.
 
 
